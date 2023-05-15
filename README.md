@@ -25,5 +25,17 @@ the flow.tcl script will call the another scripts (S2S) and the scripts call the
 
 ![image](https://github.com/islam-nasser0/OpenLane--ASIC-of-SPM-module/assets/111699435/9a026481-38ab-495a-83c7-d4ae990bf592)
 
+### -in the tool you will find predesigned modules , i choose simple one and desided to implement it inshallah 
+SPM (smart power module)
+
+![image](https://github.com/islam-nasser0/OpenLane--ASIC-of-SPM-module/assets/111699435/d6d5f70a-4138-43bc-901a-7bd439bbcc40)
+
+### -i run synthesis script and the tool of synthesis called yosys 
+
+![image](https://github.com/islam-nasser0/OpenLane--ASIC-of-SPM-module/assets/111699435/e30aa4a4-a9af-410b-adfe-566e969260c2)
+
+### -i run floorplan script and the tool of PnR called openroad 
+
+
 
 
