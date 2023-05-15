@@ -34,7 +34,16 @@ SPM (smart power module)
 
 ![image](https://github.com/islam-nasser0/OpenLane--ASIC-of-SPM-module/assets/111699435/e30aa4a4-a9af-410b-adfe-566e969260c2)
 
-### -i run floorplan script and the tool of PnR called openroad 
+### -i run floorplane script and the tool of PnR called openroad
+
+Initial floorplane(core area , die area )
+
+Io placement (macro 23 cell)
+
+Tap & Decap insertion 
+
+Power planning 
+
 
 
 
