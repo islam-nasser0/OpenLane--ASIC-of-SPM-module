@@ -16,4 +16,5 @@ Including tools :
  
  ![image](https://github.com/islam-nasser0/OpenLane--ASIC-of-SPM-module/assets/111699435/f63d1497-5655-40db-b745-b7f05812387f)
 
-
+### you can run all the flow from this non interactive mode , only you will rum the flow.tcl script  
+the flow.tcl script will call the another scripts (S2S) and the scripts call the commands (S2command) then commands call the configrations these are the three steps of automation in the tool  
