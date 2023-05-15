@@ -44,6 +44,40 @@ Tap & Decap insertion
 
 Power planning 
 
+![image](https://github.com/islam-nasser0/OpenLane--ASIC-of-SPM-module/assets/111699435/960e3e75-9b02-46d5-8d77-f60450240425)
+
+### view from the GUI to the floorplaning 
+
+![image](https://github.com/islam-nasser0/OpenLane--ASIC-of-SPM-module/assets/111699435/c8bf9003-f344-4dee-8bb3-d1605c4c2859)
+
+### tap insertion to prevent latchup poroplem 
+
+![image](https://github.com/islam-nasser0/OpenLane--ASIC-of-SPM-module/assets/111699435/978de398-b088-49fd-b320-e11c8a2772c2)
+
+### poewr grid 
+
+![image](https://github.com/islam-nasser0/OpenLane--ASIC-of-SPM-module/assets/111699435/04cc61ca-e9af-48fe-8d0a-a23bd2a9631f)
+
+### initial placement cells not correct orianted or fit in it's place in power grid 
+
+![image](https://github.com/islam-nasser0/OpenLane--ASIC-of-SPM-module/assets/111699435/abceab18-7009-4441-a4c5-ee031666926b)
+
+### detailed placement and final placement 
+
+![image](https://github.com/islam-nasser0/OpenLane--ASIC-of-SPM-module/assets/111699435/f27ddebf-68e8-4b9c-884b-6a5877047ca5)
+
+### placement dinesty to avoid problems in routing 
+
+![image](https://github.com/islam-nasser0/OpenLane--ASIC-of-SPM-module/assets/111699435/41db66e0-bcb3-4dec-9fac-7111a8eb7f88)
+
+### view in logical connections after placement 
+
+![image](https://github.com/islam-nasser0/OpenLane--ASIC-of-SPM-module/assets/111699435/b850767b-bf2f-4429-8b56-48ac869e04d9)
+
+### future work inshallah 
+
+
+
 
 
 
