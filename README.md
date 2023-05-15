@@ -1,7 +1,7 @@
 # OpenLane--ASIC-of-SPM-module
 ## simple ASIC description will suite the new users of the tool i work on small predesigned module (SPM) you will find it in the tool files
 
-## introduction about the took=l 
+## introduction about the tool
 ![image](https://github.com/islam-nasser0/OpenLane--ASIC-of-SPM-module/assets/111699435/beb9a886-cccd-40ea-9c37-5f499a9e9eb8)
 
 ### - google make fund to people make chips with thier tool and make them fabrication ans this is thier schedule 
