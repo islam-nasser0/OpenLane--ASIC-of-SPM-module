@@ -3,7 +3,7 @@
 
 ## introduction about the tool
 
-### - google make fund to people make chips with thier tool and make them fabrication ans this is thier schedule 
+### - Google make fund to people make chips with thier tool and make them fabrication ans this is thier schedule 
 
 ![image](https://github.com/islam-nasser0/OpenLane--ASIC-of-SPM-module/assets/111699435/beb9a886-cccd-40ea-9c37-5f499a9e9eb8)
 
