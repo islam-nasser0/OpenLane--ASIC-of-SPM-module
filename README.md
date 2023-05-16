@@ -11,6 +11,7 @@
 
 Including tools :
  OpenROAD, Yosys, Magic, Netgen, CVC, SPEF-Extractor, KLayout
+ 
 ![image](https://github.com/islam-nasser0/OpenLane--ASIC-of-SPM-module/assets/111699435/6a1cfc99-e6ef-4f71-a8e6-84309a656942)
 
 
@@ -27,6 +28,7 @@ the flow.tcl script will call the another scripts (S2S) and the scripts call the
 
 ### -in the tool you will find predesigned modules , i choose simple one and desided to implement it inshallah 
 SPM (smart power module)
+
 ![image](https://github.com/islam-nasser0/OpenLane--ASIC-of-SPM-module/assets/111699435/9a026481-38ab-495a-83c7-d4ae990bf592)
 
 
@@ -43,6 +45,7 @@ Io placement (macro 23 cell)
 Tap & Decap insertion 
 
 Power planning 
+
 ![image](https://github.com/islam-nasser0/OpenLane--ASIC-of-SPM-module/assets/111699435/e30aa4a4-a9af-410b-adfe-566e969260c2)
 
 
